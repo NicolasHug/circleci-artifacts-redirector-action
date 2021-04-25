@@ -2,7 +2,6 @@
 
 GitHub Action to add a GitHub status link to a CircleCI artifact.
 
-
 ## Example usage
 
 Sample `.github/workflows/main.yml`:
